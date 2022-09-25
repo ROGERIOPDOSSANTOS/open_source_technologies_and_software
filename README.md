@@ -1,0 +1,2 @@
+# open_source_technologies_and_software
+A review on the use of open source technologies and software applied to precision agriculture practices
